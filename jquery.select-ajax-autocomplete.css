@@ -1,0 +1,15 @@
+/**
+ * jQuery SAA (Select Ajax Autocomplete)
+ *
+ * @author Ramsés Corporales
+ * @version 1.0
+ * @copyright 2017 - GNU General Public License v3.0
+ * @link https://github.com/ramsito90/jquery-select-ajax-autocomplete
+ */
+.saa-loading {
+    background-image: url("./loading.gif");
+    height: 32px;
+    width: 32px;
+    z-index: 9999;
+    position: absolute;
+}
