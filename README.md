@@ -4,11 +4,12 @@ jQuery plugin to autocomplete html select tag when changing other field
 #TODO documentation
 
 Example:
-<head>
-    <link rel="stylesheet" href="/jquery.select-ajax-autocomplete.css"/>
-    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <script type="text/javascript" src="/jquery.select-ajax-autocomplete.js"></script>
-</head>
+
+    <head>
+        <link rel="stylesheet" href="/jquery.select-ajax-autocomplete.css"/>
+        <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script type="text/javascript" src="/jquery.select-ajax-autocomplete.js"></script>
+    </head>
 
     <script>
       $(function () {
